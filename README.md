@@ -13,7 +13,7 @@ A sleek, custom-weighted GPA calculator built with Python and Streamlit for high
 * **Custom Neon UI:** Built with a custom dark-mode theme and interactive grade slider.
 
 ## Preview
-![App Screenshot](screenshot.png)
+![App Screenshot](preview.png)
 
 ## Built With
 * **Python 3**
