@@ -8,7 +8,7 @@ A sleek, custom-weighted GPA calculator built with Python and Streamlit for high
 
 ## Features
 * **Custom District Weighting:** Calculates both Unweighted (4.0 scale) and Weighted GPAs (`+0.04` per credit for Honors, `+0.08` per credit for AP/Dual Enrollment).
-* **Flexible Credit Support:** Supports half-credit (`0.5`), full-year (`1.0`), and college Dual Enrollment (`3.0+`) courses.
+* **Flexible Credit Support:** Supports half-credit (`0.5`), full-year (`1.0`), and LWTC Dual Enrollment (`2.0+`) courses.
 * **Private Browser Storage:** Automatically saves your schedule locally in your browser's `localStorage` so your classes stay saved across refreshes without needing an account.
 * **Custom Neon UI:** Built with a custom dark-mode theme and interactive grade slider.
 
