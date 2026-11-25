@@ -3,8 +3,8 @@ from streamlit_local_storage import LocalStorage
 from gpa_calculator import calculate_gpa, weight_boost
 
 # --- PAGE SETUP ---
-st.set_page_config(page_title="GPA Tracker", page_icon="🌴")
-st.title("🌴 High School GPA Calculator")
+st.set_page_config(page_title="GPA Tracker", page_icon="🎓")
+st.title("🎓 High School GPA Calculator")
 
 localS = LocalStorage()
 
